@@ -1,0 +1,9 @@
+  <!ELEMENT KINO_FILM (film+) >
+    <!ELEMENT film (titel, regisseur, genre, erscheinungsdatum, rating)>
+    <!ATTLIST film id ID #REQUIRED>
+
+        <!ELEMENT titel (#PCDATA)>
+        <!ELEMENT regisseur (#PCDATA)>
+        <!ELEMENT genre (#PCDATA)>
+        <!ELEMENT erscheinungsdatum (#PCDATA)>
+        <!ELEMENT rating (#PCDATA)>
