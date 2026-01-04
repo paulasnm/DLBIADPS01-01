@@ -1,0 +1,7 @@
+Entwirf einen Algorithmus zur einfachen Verarbeitung einer Anfrageliste. 
+Jede Anfrage hat zwei mögliche Operationen: „hinzufügen“ und „entfernen“. 
+Die Verwaltung dieser Anfrage wird über …
+    a)	Arrays oder
+    b)	Eine FIFO-Datenstruktur realisiert.
+Implementiere beide Funktionen so, dass sie eine gegebene Liste von Anfragen korrekt und effizient bearbeiten. 
+Nutze dafür beispielsweise Python. Leite die Zeit- und Speicherkomplexität beider Implementierungen her. 
