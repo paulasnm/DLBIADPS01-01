@@ -1,0 +1,4 @@
+Die Filmdaten für ein lokales Kino sollten in einer XML-Struktur verwaltet und dann für die Website des Kinos in einem visuellen, ansprechenden HTML-Format dargestellt werden. 
+    a)	Erstelle dafür ein Document Type Declaration (DTD) für die XML-Struktur zur Erfassung der Filme, inkl. Titel, Regisseur:in, Genre, Erscheinungsdatum und Rating. 
+    b)	Erstelle ein zugehöriges XML mit mindestens drei Filmen.
+    c)	Erstelle ein XSLT-Stylesheet, das die Filme in HTML auf einer Seite anzeigt, wobei Titel und Regisseur:in jedes Films in unterschiedlichen Schriftgrößen dargestellt werden, um sie hervorzuheben. 
