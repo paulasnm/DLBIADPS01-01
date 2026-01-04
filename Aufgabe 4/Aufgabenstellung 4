@@ -1,0 +1,3 @@
+Aufgabenstellung 4:
+Betrachte die folgende Implementierung eines Bestellverwaltungssystem eines kleinen Online-Shops mit den Funktionen add_order(order_id, order_value) zum Hinzufügen einer Bestellung und der Funktion total_order_value(), die die Gesamtsumme aller Bestellwerte zurückliefert. 
+Implementiere diese Funktionen gemeinsam mit Testfällen in Python. Stelle sicher, dass Randfälle wie Bestellwerte von 0 korrekt verarbeitet werden. Entwickele Test, sodass eine Testabdeckung von 100 Prozent erreicht wird. 
