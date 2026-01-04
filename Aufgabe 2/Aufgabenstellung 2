@@ -1,0 +1,8 @@
+Aufgabenstellung 2:
+Entwickle eine Klassenhierarchie für ein Zoo-Management-Informationssystem.
+  a)	Definiere eine allgemeine Basisklasse Tier, die die grundlegenden Eigenschaften und Methoden enthält:
+      i.	Attribute: Name, Alter, Gewicht
+      ii.	Methoden: füttern (erhöht das Gewicht), Beschreibung (gibt eine kurze Beschreibung des Tieres zurück).
+  b)	Leitet mindestens zwei spezifische Klassen von Tier ab, z.B. Raubtier und Pflanzenfresser. 
+      Füge zusätzlich Attribute hinzu, die spezifisch für die jeweiligen Tierklassen sind. 
+  c)	Setze die Klasse in Python um, wobei Redundanzen vermieden und Methoden, wenn nötig, korrekt überschrieben werden.
