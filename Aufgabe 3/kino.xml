@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="kino.xsl"?>
+<!DOCTYPE KINO_FILM SYSTEM "kino.dtd">
+<KINO_FILM>
+    <film id="film1">
+        <titel>Avatar: Fire and Ash</titel>
+        <regisseur>James Cameron</regisseur>
+        <genre>Science-Fiction, Action</genre>
+        <erscheinungsdatum>17. Dezember 2025</erscheinungsdatum>
+        <rating>7,4/10 Sterne</rating>
+    </film>
+
+    <film id="film2">
+        <titel>Zoomania 2</titel>
+        <regisseur>Byron Howard, Jared Bush</regisseur>
+        <genre>Animation, Kinderfilm</genre>
+        <erscheinungsdatum>26. November 2025</erscheinungsdatum>
+        <rating>7,6/10 Sterne</rating>
+    </film>
+
+    <film id="film3">
+        <titel>Der Medicus 2</titel>
+        <regisseur>Philipp Stölzl</regisseur>
+        <genre>Abenteuer, Historik</genre>
+        <erscheinungsdatum>25. Dezember 2025</erscheinungsdatum>
+        <rating>6,4/10 Sterne</rating>
+    </film>
+
+    <film id="film4">
+        <titel>Wicked: Teil 2</titel>
+        <regisseur>Jon M. Chu</regisseur>
+        <genre>Musical, Fantasy</genre>
+        <erscheinungsdatum>19. November 2025</erscheinungsdatum>
+        <rating>6,9/10 Sterne</rating>
+    </film>
+
+</KINO_FILM>
