@@ -1,0 +1,6 @@
+Betrachte die folgenden Haskell-Funktion:
+sumList  : :  [ Integer ] -> Integer
+sumList [ ] = 0
+sumList (x : xs) = x + sumList (xs)
+a)	Erläutere die Funktionsweise des rekursiven Haskell-Algorithmus und beschreibe den Basisfall und den rekursiven Fall.
+b)	Übersetze das obige Haskell-Programm in ein äquivalentes iteratives Programm in Python.
